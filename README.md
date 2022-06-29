@@ -12,7 +12,7 @@
 <p>I got inspiration in this repo:</p>
 <ul>
     <li>
-        <a href="https://github.com/florinpop17/app-ideas">
+        <a href="https://github.com/florinpop17/app-ideas" target="_blank">
             app-ideas
         </a>
     </li>

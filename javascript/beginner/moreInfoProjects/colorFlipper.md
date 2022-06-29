@@ -33,22 +33,22 @@
 <h2>Useful Links and resources</h2>
 <ul>
 <li>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array" target="_blank">
             Array
         </a>
     </li>
     <li>
-        <a href="https://www.w3schools.com/js/js_htmldom_document.asp">
+        <a href="https://www.w3schools.com/js/js_htmldom_document.asp" target="_blank">
             HTML DOM Document
         </a>
     </li>
     <li>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener" target="_blank">
             Event Listener
         </a>
     </li>
     <li>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math" target="_blank">
             Math Library
         </a>
     </li>
@@ -57,7 +57,7 @@
 <h2>Example Projects</h2>
 <ul>
     <li>
-        <a href="https://www.youtube.com/watch?v=3PHXvlpOkf4&t=421s">
+        <a href="https://www.youtube.com/watch?v=3PHXvlpOkf4&t=421s" target="_blank">
             freeCodeCamp YT video
         </a>
     </li>
@@ -65,5 +65,5 @@
 
 ---
 <h3>
-    <a href="https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-a-color-flipper"> Source.</a>
+    <a href="https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-a-color-flipper" target="_blank"> Source.</a>
 </h3>
