@@ -1,6 +1,6 @@
 <h1 align="center">Color Flipper</h1>
 
-<h2>Project Description:</h2>
+<h2>Project Description</h2>
 <p>
     In this project you will create a page where you change the background color and display it the color in a text.
 </p>
