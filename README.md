@@ -24,21 +24,21 @@
     </tr>
     <tr>
         <td>
-            <a href="./C/README.md">
+            <a href="./C">
                 C
             </a>
         </td>
     </tr>
     <tr>
         <td>
-            <a href="./C#/README.md">
+            <a href="./C#">
                 C#
             </a>
         </td>
     </tr>
     <tr>
         <td>
-            <a href="./C++/README.md">
+            <a href="./C++">
                 C++
             </a>
         </td>
