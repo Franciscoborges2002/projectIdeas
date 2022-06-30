@@ -24,49 +24,49 @@
     </tr>
     <tr>
         <td>
-            <a href="./C">
+            <a href="./programmingLanguages/C">
                 C
             </a>
         </td>
     </tr>
     <tr>
         <td>
-            <a href="./C#">
+            <a href="./programmingLanguages/C#">
                 C#
             </a>
         </td>
     </tr>
     <tr>
         <td>
-            <a href="./C++">
+            <a href="./programmingLanguages/C++">
                 C++
             </a>
         </td>
     </tr>
     <tr>
         <td>
-            <a href="./Java">
+            <a href="./programmingLanguages/Java">
                 Java
             </a>
         </td>
     </tr>
     <tr>
         <td>
-            <a href="./Javascript">
+            <a href="./programmingLanguages/Javascript">
                 Javascript
             </a>
         </td>
     </tr>
     <tr>
         <td>
-            <a href="./PHP">
+            <a href="./programmingLanguages/PHP">
                 PHP
             </a>
         </td>
     </tr>
     <tr>
         <td>
-            <a href="./Python">
+            <a href="./programmingLanguages/Python">
                 Python
             </a>
         </td>
