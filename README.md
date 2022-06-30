@@ -45,28 +45,28 @@
     </tr>
     <tr>
         <td>
-            <a href="./Java/README.md">
+            <a href="./Java">
                 Java
             </a>
         </td>
     </tr>
     <tr>
         <td>
-            <a href="./Javascript/README.md">
+            <a href="./Javascript">
                 Javascript
             </a>
         </td>
     </tr>
     <tr>
         <td>
-            <a href="./PHP/README.md">
+            <a href="./PHP">
                 PHP
             </a>
         </td>
     </tr>
     <tr>
         <td>
-            <a href="./Python/README.md">
+            <a href="./Python">
                 Python
             </a>
         </td>
