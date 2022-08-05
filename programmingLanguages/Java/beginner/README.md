@@ -6,8 +6,8 @@
     </tr>
     <tr>
         <td>
-            <a href="./moreInfoProjects/managementSystem.md">
-                Management System
+            <a href="./moreInfoProjects/parkingManagementSystem.md">
+                Parking management System
             </a>
         </td>
     </tr>
